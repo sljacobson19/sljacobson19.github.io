@@ -1,3 +1,7 @@
 html {
   background-color: DeepSkyBlue;
 }
+
+a:hover {
+  font-color: LightPink;
+}
