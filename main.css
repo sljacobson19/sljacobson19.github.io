@@ -5,3 +5,7 @@ html {
 a:hover {
   font-color: LightPink;
 }
+
+a {
+  text-color: DeepPink;
+}
