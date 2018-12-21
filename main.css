@@ -4,11 +4,11 @@ html {
   background-color: Pink;
 }
 
-a:hover {
+a {
   color: rgb(243, 6, 132);
 }
 
-a {
+a:hover {
   color: coral;
 }
 
