@@ -5,14 +5,14 @@ html {
 }
 
 a:hover {
-  font-color: LightPink;
+  color: LightPink;
 }
 
 a {
-  text-color: DeepPink;
+  color: DeepPink;
 }
 
 h1 {
-  text-color: BlueViolet;
+  color: BlueViolet;
 }
 
